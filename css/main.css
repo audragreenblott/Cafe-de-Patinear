@@ -1,0 +1,104 @@
+
+header {
+	display: flex;
+}
+
+li {
+	display: flex;}
+
+
+h1 img {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: left;
+	font-family: adobe-handwriting-ernie, sans-serif;
+}
+
+@media screen and (min-width: 40em){
+p{
+font-size: 1.5rem;
+}
+
+img {
+  display: flex;
+  margin: 0 auto;
+  align: center;
+}
+
+h2 {
+	font-size: 20px;
+	text-align: center;
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+p {
+	font-size: 15px;
+	letter-spacing: 3px;
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h3 {
+	font-size: 20px;
+	text-align: center;
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h4 {
+		font-size: 20px;
+		text-align: center;
+		font-family: aktiv-grotesk, sans-serif;
+		font-weight: 400;
+		font-style: normal;
+}
+
+p {
+	color: white;
+	letter-spacing: 3px;
+}
+
+h5 {
+	font-size: 20px;
+	text-align: left;
+	font-size: 40px;
+	text-align: left;
+	font-family: adobe-handwriting-ernie, sans-serif;
+}
+
+h5 img {
+	display: flex;
+	align: left;
+}
+
+h5 p {
+	display: flex;
+}
+
+h6 {
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+
+Body {
+	width:  1000px; 
+	margin:  0 auto;
+	background-color: #000615;
+}
+
+html {
+	font-size: 20px;
+	font-family: Al Nile;
+	color: white;
+}
